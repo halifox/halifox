@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-This is halifox 🇲🇾
+I'm **halifox** 🇲🇾
 
-A minimalist 🧘‍♂️
+🌿 Minimalist | 🦊 Fennec Fox Enthusiast | 💻 Software Craftsman
 
-Software should be a tool 🛠️
+I believe software should be a seamless tool, not a burden. 🛠️
+
+Let simplicity shape function. ✨
