@@ -4,6 +4,10 @@ I'm **halifox** 🇲🇾
 
 🌿 Minimalist | 🦊 Fennec Fox Enthusiast | 💻 Software Craftsman
 
-I believe software should be a seamless tool, not a burden. 🛠️
+> **Simplicity is the ultimate sophistication.**
+> 
+> *— Leonardo da Vinci*
 
-Let simplicity shape function. ✨
+> **Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.**
+> 
+> *— Antoine de Saint-Exupéry*
