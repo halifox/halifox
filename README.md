@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm $\color{gray}{\text{hali}}\color{#FF5733}{\text{F0X}}$ 
+## 👋 Hi there, I'm halifox
 
 🌿 Minimalist | 🦊 Fennec Fox Enthusiast | 💻 Software Craftsman
 
