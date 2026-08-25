@@ -29,4 +29,5 @@
 | [MiRemoteInfraredLab](https://github.com/halifox/MiRemoteInfraredLab) | 小米万能遥控红外协议研究与实验项目，用于解析红外码库数据，支持多设备固定码解密，并探索空调设备状态 JSON/Lua 编码规则及控制逻辑。 |
 | [AndroidWebRTC4Control](https://github.com/halifox/AndroidWebRTC4Control) | 一个基于 WebRTC 的 Android 远程控制实验项目，演示在无中心信令服务器条件下，通过局域网实现 Android 设备间实时屏幕采集传输，并结合无障碍服务实现远程操作控制。 |
 | [AndroidUSB4Control](https://github.com/halifox/AndroidUSB4Control) | 一个基于 Android Open Accessory（AOA）协议的 Android 设备互联实验项目，实现 Android-to-Android USB 屏幕镜像与反向控制功能验证。 |
+| [android_serialport_example](https://github.com/halifox/android_serialport_example) | 一款用于 Android 平台的串口通信示例工具，基于串口协议实现设备连接、数据收发与通信调试功能，用于展示 Android 环境下串口硬件交互的实现方式。 |
 | [app_market_crawler](https://github.com/halifox/app_market_crawler) | 一个基于 Scrapy 构建的多应用市场数据采集工具，用于统一抓取 Android 应用信息、下载数据及历史版本记录，支持应用研究、版本归档与数据分析。目前覆盖 360 手机助手、百度手机助手、华为应用市场、联想应用商店、PP 助手、三星应用商店、VIVO 应用商店、豌豆荚、小米应用商店、应用宝、应用汇等多个主流平台。 |
