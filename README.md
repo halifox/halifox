@@ -26,7 +26,7 @@
 | [maccy_for_windows](https://github.com/halifox/maccy_for_windows) | 一款基于 Flutter 开发的跨平台剪贴板管理工具，参考 macOS 端 Maccy 的交互设计，提供轻量化的剪贴板历史记录管理与快速检索功能。 |
 | [frp_android](https://github.com/halifox/frp_android) | 一个面向 Android 平台的 frpc 封装项目，用于将 frp 内核能力集成至移动端应用场景，提供便捷的内网穿透客户端支持。 |
 | [dictionary](https://github.com/halifox/dictionary) | 一款 AOSP 词库增强工具，通过外部词库注入方式扩展系统默认词库，改善原生输入法词汇量不足的问题，支持用户自定义词库内容并进行灵活管理。 |
-| [xiaomi_ir_protocol_lab](https://github.com/halifox/xiaomi_ir_protocol_lab) | 小米万能遥控红外协议研究与实验项目，用于解析红外码库数据，支持多设备固定码解密，并探索空调设备状态 JSON/Lua 编码规则及控制逻辑。 |
+| [xiaomi_ir_lab](https://github.com/halifox/xiaomi_ir_lab) | 小米万能遥控红外协议研究与实验项目，用于解析红外码库数据，支持多设备固定码解密，并探索空调设备状态 JSON/Lua 编码规则及控制逻辑。 |
 | [android_webrtc_control](https://github.com/halifox/android_webrtc_control) | 一个基于 WebRTC 的 Android 远程控制实验项目，演示在无中心信令服务器条件下，通过局域网实现 Android 设备间实时屏幕采集传输，并结合无障碍服务实现远程操作控制。 |
 | [AndroidUSB4Control](https://github.com/halifox/android_usb_control) | 一个基于 Android Open Accessory（AOA）协议的 Android 设备互联实验项目，实现 Android-to-Android USB 屏幕镜像与反向控制功能验证。 |
 | [android_serialport_example](https://github.com/halifox/android_serialport_example) | 一款用于 Android 平台的串口通信示例工具，基于串口协议实现设备连接、数据收发与通信调试功能，用于展示 Android 环境下串口硬件交互的实现方式。 |
