@@ -18,7 +18,7 @@
 | Project | Description |
 | --- | --- | 
 | [monitor](https://github.com/halifox/monitor) | 一款基于 Flutter 和 DDC/CI 协议构建的外接显示器硬件控制工具，支持通过软件直接调节亮度、色彩、几何参数等显示器设置，仅支持 Windows 平台。|
-| [nat_check](https://github.com/halifox/nat_check) | 一款基于 Flutter 和 RFC 5780 构建的 NAT 类型检测工具，支持 iOS、Android、Windows、macOS、Linux 平台。|
+| [nat](https://github.com/halifox/nat) | 一款基于 Flutter 和 RFC 5780 构建的 NAT 类型检测工具，支持 iOS、Android、Windows、macOS、Linux 平台。|
 | [authentication](https://github.com/halifox/authentication) | 一款基于 Flutter 和 RFC 6238 构建的双因素认证工具，支持 iOS、Android、Windows、macOS、Linux 和 Web 平台。 | 
 | [iptv](https://github.com/halifox/iptv) | 一款基于 Flutter 构建的 IPTV 播放客户端，支持加载网络 M3U 播放列表并浏览频道。提供沉浸式横屏播放、频道切换、播放控制及画面参数调节功能，采用 Cupertino 风格界面，并支持液态玻璃视觉效果与深浅主题适配。 |
 | [comics](https://github.com/halifox/comics) | 一款基于 Flutter 构建的第三方漫画阅读客户端，基于拷贝漫画内容服务提供漫画发现、排行、搜索、收藏管理及多模式阅读功能。采用 Cupertino 风格界面，并支持液态玻璃视觉效果与深浅主题适配。 |
