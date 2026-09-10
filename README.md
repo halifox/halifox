@@ -15,19 +15,19 @@
 
 ## 🚀 Projects
 
-| Project | Description |
-| --- | --- | 
-| [monitor](https://github.com/halifox/monitor) | 一款基于 Flutter 和 DDC/CI 协议构建的外接显示器硬件控制工具，支持通过软件直接调节亮度、色彩、几何参数等显示器设置，仅支持 Windows 平台。|
-| [nat](https://github.com/halifox/nat) | 一款基于 Flutter 和 RFC 5780 构建的 NAT 类型检测工具，支持 iOS、Android、Windows、macOS、Linux 平台。|
-| [authentication](https://github.com/halifox/authentication) | 一款基于 Flutter 和 RFC 6238 构建的双因素认证工具，支持 iOS、Android、Windows、macOS、Linux 和 Web 平台。 | 
-| [iptv](https://github.com/halifox/iptv) | 一款基于 Flutter 构建的 IPTV 播放客户端，支持加载网络 M3U 播放列表并浏览频道。提供沉浸式横屏播放、频道切换、播放控制及画面参数调节功能，采用 Cupertino 风格界面，并支持液态玻璃视觉效果与深浅主题适配。 |
-| [comics](https://github.com/halifox/comics) | 一款基于 Flutter 构建的第三方漫画阅读客户端，基于拷贝漫画内容服务提供漫画发现、排行、搜索、收藏管理及多模式阅读功能。采用 Cupertino 风格界面，并支持液态玻璃视觉效果与深浅主题适配。 |
-| [cinema](https://github.com/halifox/cinema) | 一款基于 Flutter 构建的第三方影视浏览与播放客户端，基于苹果 CMS v10 数据接口提供影视分类、搜索、片单浏览、播放记录及多线路播放等功能。采用 Cupertino 风格界面，并支持液态玻璃视觉效果与深浅主题适配。 |
-| [maccy_for_windows](https://github.com/halifox/maccy_for_windows) | 一款基于 Flutter 开发的跨平台剪贴板管理工具，参考 macOS 端 Maccy 的交互设计，提供轻量化的剪贴板历史记录管理与快速检索功能。 |
-| [frp_android](https://github.com/halifox/frp_android) | 一个面向 Android 平台的 frpc 封装项目，用于将 frp 内核能力集成至移动端应用场景，提供便捷的内网穿透客户端支持。 |
-| [dictionary](https://github.com/halifox/dictionary) | 一款 AOSP 词库增强工具，通过外部词库注入方式扩展系统默认词库，改善原生输入法词汇量不足的问题，支持用户自定义词库内容并进行灵活管理。 |
-| [xiaomi_ir_lab](https://github.com/halifox/xiaomi_ir_lab) | 小米万能遥控红外协议研究与实验项目，用于解析红外码库数据，支持多设备固定码解密，并探索空调设备状态 JSON/Lua 编码规则及控制逻辑。 |
-| [android_webrtc_control](https://github.com/halifox/android_webrtc_control) | 一个基于 WebRTC 的 Android 远程控制实验项目，演示在无中心信令服务器条件下，通过局域网实现 Android 设备间实时屏幕采集传输，并结合无障碍服务实现远程操作控制。 |
-| [AndroidUSB4Control](https://github.com/halifox/android_usb_control) | 一个基于 Android Open Accessory（AOA）协议的 Android 设备互联实验项目，实现 Android-to-Android USB 屏幕镜像与反向控制功能验证。 |
-| [android_serialport_example](https://github.com/halifox/android_serialport_example) | 一款用于 Android 平台的串口通信示例工具，基于串口协议实现设备连接、数据收发与通信调试功能，用于展示 Android 环境下串口硬件交互的实现方式。 |
-| [app_market_crawler](https://github.com/halifox/app_market_crawler) | 一个基于 Scrapy 构建的多应用市场数据采集工具，用于统一抓取 Android 应用信息、下载数据及历史版本记录，支持应用研究、版本归档与数据分析。目前覆盖 360 手机助手、百度手机助手、华为应用市场、联想应用商店、PP 助手、三星应用商店、VIVO 应用商店、豌豆荚、小米应用商店、应用宝、应用汇等多个主流平台。 |
+| Project                                                                             | Description                                                                                                    |
+| ----------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| [monitor](https://github.com/halifox/monitor)                                       | 基于 Flutter 与 DDC/CI 的 Windows 显示器控制工具，可调节亮度、色彩、几何参数等显示器硬件设置。                                                   |
+| [nat](https://github.com/halifox/nat)                                               | 基于 Flutter 与 RFC 5780 的 NAT / STUN 网络诊断工具，用于检测 NAT 映射、过滤行为、映射存活时间及相关网络特征，支持 iOS、Android、Windows、macOS 和 Linux。 |
+| [authentication](https://github.com/halifox/authentication)                         | 基于 Flutter 与 RFC 6238 的 TOTP 双因素认证工具，用于管理和生成一次性验证码，支持 iOS、Android、Windows、macOS、Linux 和 Web。                   |
+| [iptv](https://github.com/halifox/iptv)                                             | 基于 Flutter 的 IPTV 播放客户端，支持 M3U 播放列表、频道浏览、横屏播放、频道切换、播放控制及画面参数调节。界面采用 Cupertino 风格，并适配深浅主题。                      |
+| [comics](https://github.com/halifox/comics)                                         | 基于 Flutter 的第三方漫画阅读客户端，接入拷贝漫画内容服务，提供漫画发现、排行、搜索、收藏和多模式阅读。界面采用 Cupertino 风格，并适配深浅主题。                             |
+| [cinema](https://github.com/halifox/cinema)                                         | 基于 Flutter 的第三方影视浏览与播放客户端，接入苹果 CMS v10 接口，提供分类、搜索、片单、播放记录和多线路播放。界面采用 Cupertino 风格，并适配深浅主题。                     |
+| [maccy_for_windows](https://github.com/halifox/maccy_for_windows)                   | 参考 macOS Maccy 交互方式实现的 Windows 剪贴板管理工具，用于保存、检索和管理剪贴板历史记录。                                                      |
+| [frp_android](https://github.com/halifox/frp_android)                               | 面向 Android 的 frpc Go 封装层，基于 frp 提供配置和生命周期接口，可通过 `gomobile bind` 生成 AAR 并集成到 Android 应用。                        |
+| [dictionary](https://github.com/halifox/dictionary)                                 | Android 输入法词库导入工具，可将多种输入法词库格式导入系统用户词库，并提供词库管理功能。                                                               |
+| [xiaomi_ir_lab](https://github.com/halifox/xiaomi_ir_lab)                           | 小米万能遥控红外协议研究与实验项目，用于解析红外码库、多设备固定码，并研究空调 JSON / Lua 状态编码与控制逻辑。                                                  |
+| [android_webrtc_control](https://github.com/halifox/android_webrtc_control)         | Android 局域网远程控制实验项目，在没有中心信令服务器的场景下使用 WebRTC 传输屏幕，并结合无障碍服务实现设备控制。                                               |
+| [android_usb_control](https://github.com/halifox/android_usb_control)               | 基于 Android Open Accessory（AOA）协议的 Android-to-Android USB 通信实验，用于验证 USB 屏幕镜像与反向控制。                              |
+| [android_serialport_example](https://github.com/halifox/android_serialport_example) | Android 串口通信示例，展示串口参数配置、数据发送与接收，可用于串口设备接入和通信调试。                                                                |
+| [app_market_crawler](https://github.com/halifox/app_market_crawler)                 | 基于 Scrapy 的 Android 应用市场采集工具，用于统一获取应用详情、下载信息及历史版本数据，覆盖多个国内应用市场。                                                |
