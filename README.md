@@ -17,13 +17,15 @@
 
 | Project                                                                                                 | Description                                                                                   |
 |---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|
+| [hotkey_blocker](https://github.com/halifox/hotkey_blocker)                                             | 一个用于阻止指定应用注册全局快捷键的 Windows 工具。                                                                |
+| [maccy_for_windows](https://github.com/halifox/maccy_for_windows)                                       | 一个 Windows 剪贴板历史工具，受 macOS 版 Maccy 启发。                                                        |
+| ~~[maccy_for_windows](https://github.com/halifox/maccy_for_windows/tree/flutter)~~                      | 基于 Flutter 实现的剪贴板管理工具，参考 macOS Maccy 交互方式，可保存、检索和管理剪贴板历史记录。                                   |
 | [comics](https://github.com/halifox/comics)                                                             | 基于 Flutter 的第三方漫画阅读工具，接入拷贝漫画内容服务，支持漫画发现、排行、搜索、收藏及多模式阅读。                                       |
 | [cinema](https://github.com/halifox/cinema)                                                             | 基于 Flutter 与苹果 CMS v10 接口的影视浏览与播放工具，支持分类、搜索、片单、播放记录及多线路播放。                                    |
 | [iptv](https://github.com/halifox/iptv)                                                                 | 基于 Flutter 的 IPTV 播放工具，支持 M3U 播放列表、频道浏览、频道切换、播放控制及画面参数调节。                                     |
 | [authentication](https://github.com/halifox/authentication)                                             | 基于 Flutter 与 RFC 6238 的 TOTP 双因素认证工具，可管理账户并生成基于时间的一次性验证码。                                     |
 | [monitor](https://github.com/halifox/monitor)                                                           | 基于 Flutter 与 DDC/CI 的 Windows 显示器控制工具，可调节亮度、色彩、几何参数等显示器硬件设置。                                  |
 | [nat](https://github.com/halifox/nat)                                                                   | 基于 Flutter 与 RFC 5780 的 NAT / STUN 网络诊断工具，可检测 NAT 映射行为、过滤行为、映射存活时间等网络特征。                      |
-| [maccy_for_windows](https://github.com/halifox/maccy_for_windows)                                       | 基于 Windows 原生技术实现的剪贴板管理工具，参考 macOS Maccy 交互方式，可保存、检索和管理剪贴板历史记录。                               |
 | [app_market_crawler](https://github.com/halifox/app_market_crawler)                                     | 基于 Scrapy 的 Android 应用市场采集工具，可统一获取应用详情、下载信息及历史版本数据。                                           |
 | [android_viewbindingprovider](https://github.com/halifox/android_viewbindingprovider)                   | 基于 Android Hilt 的 ViewBinding 注入工具，可自动注入 ViewBinding 生成类并减少重复初始化代码。                           |
 | [android_boot_animation_replacer](https://github.com/halifox/android_boot_animation_replacer)           | 基于 Android 的系统开机动画替换示例，用于演示应用内替换设备 Boot Animation 的实现方式。                                      |
